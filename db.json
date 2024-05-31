@@ -1,0 +1,22 @@
+{
+  "destinations": [
+    {
+      "id": "1",
+      "country": "Prancis",
+      "location": "Eiffel Tower",
+      "description": "jalan samaa keluarga"
+    },
+    {
+      "id": "2",
+      "country": "USA",
+      "location": "Grand Canyon",
+      "description": "meeting dengan clien"
+    },
+    {
+      "id": "3",
+      "country": "Japan",
+      "location": "Mount Fuji",
+      "description": "bersama kawan kawan menjadi wibu sejati ONE PIECEEE"
+    }
+  ]
+}
